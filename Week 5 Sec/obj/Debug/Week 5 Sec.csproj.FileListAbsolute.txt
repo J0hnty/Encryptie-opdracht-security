@@ -1,0 +1,10 @@
+C:\Users\Johnty\source\repos\Week 5 Sec\Week 5 Sec\bin\Debug\Week 5 Sec.exe.config
+C:\Users\Johnty\source\repos\Week 5 Sec\Week 5 Sec\bin\Debug\Week 5 Sec.exe
+C:\Users\Johnty\source\repos\Week 5 Sec\Week 5 Sec\bin\Debug\Week 5 Sec.pdb
+C:\Users\Johnty\source\repos\Week 5 Sec\Week 5 Sec\obj\Debug\Week 5 Sec.csproj.AssemblyReference.cache
+C:\Users\Johnty\source\repos\Week 5 Sec\Week 5 Sec\obj\Debug\Week_5_Sec.Form1.resources
+C:\Users\Johnty\source\repos\Week 5 Sec\Week 5 Sec\obj\Debug\Week_5_Sec.Properties.Resources.resources
+C:\Users\Johnty\source\repos\Week 5 Sec\Week 5 Sec\obj\Debug\Week 5 Sec.csproj.GenerateResource.cache
+C:\Users\Johnty\source\repos\Week 5 Sec\Week 5 Sec\obj\Debug\Week 5 Sec.csproj.CoreCompileInputs.cache
+C:\Users\Johnty\source\repos\Week 5 Sec\Week 5 Sec\obj\Debug\Week 5 Sec.exe
+C:\Users\Johnty\source\repos\Week 5 Sec\Week 5 Sec\obj\Debug\Week 5 Sec.pdb
